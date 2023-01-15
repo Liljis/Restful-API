@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGOOSE_ATLAS_PW":"lavender*",
+        "JWT_KEY":"secret"
+    }
+    
+}
